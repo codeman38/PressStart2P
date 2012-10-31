@@ -20,7 +20,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1307929694
-ModificationTime: 1351644291
+ModificationTime: 1351644407
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -51,8 +51,8 @@ OS2SupYOff: 491
 OS2StrikeYSize: 51
 OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
-OS2CodePages: 60000093.00000000
-OS2UnicodeRanges: 800000af.5000604a.00000000.00000000
+OS2CodePages: 6000009f.00000000
+OS2UnicodeRanges: 800002af.5000604a.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
 ShortTable: cvt  2
@@ -88,6 +88,7 @@ FitToEm: 1
 WinInfo: 64 16 4
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 1048576 524288 349525 786432 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 65539 559
 
 StartChar: .notdef
