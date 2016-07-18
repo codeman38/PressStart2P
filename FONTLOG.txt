@@ -21,6 +21,10 @@ use, including Greek and Cyrillic.
 
 ChangeLog
 
+1 November 2012 (Cody Boisclair) Press Start 2P version 2.14
+- Add necessary flags for Windows to recognize as a valid Greek/Cyrillic font
+- Change line gap to zero to match version on Google Web Fonts
+
 15 June 2011 (Cody Boisclair) Press Start 2P version 2.13
 - Correct accent marks on U+00D9 Ù and U+00DA Ú
 
